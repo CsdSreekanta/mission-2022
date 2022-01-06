@@ -2,6 +2,12 @@ body{
     margin:0;
     padding:0;
 }
+.my-mission h1{
+    font-size: 40px;
+}
+.my-mission p{
+    font-size: 25px;
+}
 .mission-color{
     color:rgb(40, 241, 215)
 }
