@@ -61,3 +61,12 @@ body{
 .bg-color-3{
 background-color:  #FFF4D6;;
 }
+.third-section{
+    display:flex;
+    margin-top: 50px;
+    
+}
+.fourth-section{
+    display: flex;
+    margin-top:50px;
+}
